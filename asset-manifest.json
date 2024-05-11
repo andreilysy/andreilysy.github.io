@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba586404.css",
+    "main.js": "/static/js/main.cc62d538.js",
+    "static/js/453.a3c72ad2.chunk.js": "/static/js/453.a3c72ad2.chunk.js",
+    "static/media/rectangle-space-1248.jpg": "/static/media/rectangle-space-1248.cd2f6fd5248de23eec4b.jpg",
+    "static/media/earth.png": "/static/media/earth.e8bd58a40b5a9a60a7b2.png",
+    "static/media/rectangle-space-768.jpg": "/static/media/rectangle-space-768.4f5915ca7cc98742c651.jpg",
+    "static/media/Lato-ExtraBold.woff": "/static/media/Lato-ExtraBold.ed9ff3879a1ce17dda74.woff",
+    "static/media/rectangle-space-360.jpg": "/static/media/rectangle-space-360.f1ea34d169f57632664b.jpg",
+    "static/media/Lato-ExtraBold.woff2": "/static/media/Lato-ExtraBold.0a8782f5b3ebfa777753.woff2",
+    "static/media/square-space-2.jpg": "/static/media/square-space-2.651b20a811a0f5dc3038.jpg",
+    "static/media/square-space-4.jpg": "/static/media/square-space-4.acb0c4bde703d374fac9.jpg",
+    "static/media/square-space-1.jpg": "/static/media/square-space-1.2c73bac5efa571743528.jpg",
+    "static/media/square-space-3.jpg": "/static/media/square-space-3.e47f8898886a202ed7a8.jpg",
+    "static/media/Lato-Bold.woff": "/static/media/Lato-Bold.a8432b473015150e83cf.woff",
+    "static/media/Lato-Bold.woff2": "/static/media/Lato-Bold.97376542124b1e0d2ce1.woff2",
+    "index.html": "/index.html",
+    "main.ba586404.css.map": "/static/css/main.ba586404.css.map",
+    "main.cc62d538.js.map": "/static/js/main.cc62d538.js.map",
+    "453.a3c72ad2.chunk.js.map": "/static/js/453.a3c72ad2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba586404.css",
+    "static/js/main.cc62d538.js"
+  ]
+}
